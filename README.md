@@ -1,13 +1,10 @@
 # Mini Projetos com javascript puro
 
-## Objetivo
-Não tem outra maneira para se aprender além de **praticar, praticar e praticar**.
+Este repositório foi criado a partir de um outro repositório já existente (link: https://github.com/fernandoleonid/mini-projetos-js/tree/master) que peguei de base para treinar Javascript, com intuito de treinar e estudar. Pretendo também fazer alterações em cada projeto pra que fiquem com uma carinha um pouco diferente do original.
 
-Pensando nisso, criei este repositório com objetivo juntar ideias para mini projetos que podem ajudar quem está iniciando no desenvolvimento web utilizando o javascript puro.
-Você pode realizar observando o resultado, ou verificando o código, ou ainda acompanhando o desenvolvimento por meio de videos.
+**Até agora o repositório está apenas começando!**
 
-Se gostou da ideia acompanhe os projetos abaixo:
-
+## Projetos para estudar e aprender
 <table border="2">
   <tr>
     <td>
